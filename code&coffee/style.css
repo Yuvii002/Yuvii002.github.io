@@ -1,0 +1,93 @@
+html{
+    height: 100%;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+body{
+    background-color:rgba(5, 3, 3, 0.984);
+    background-image: url(images/HD_Images_restau.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+}
+
+header{
+    height: 118px;
+    text-align: center;
+}
+
+nav{
+    background-color: rgba(255, 0, 0, 0.414);
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+main{
+    height: 400px;
+    padding-top: 80px;
+    text-align: center;  
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+footer{
+    background-color: rgba(172, 255, 47, 0.545);
+    height: 100px;
+    text-align: center;
+    padding-top: 50px ;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+p1{
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+a{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    /*text-decoration: none;*/
+    text-align: center;
+}
+
+.logo{
+    background-size: 5px;
+    height: 5px;
+    width: 5px;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.maps{
+    padding-bottom: 100px;
+    /*background-position: center;*/
+    text-align: center;
+}
+
+
+
+
+
+ 
